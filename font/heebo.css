@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(heebo200.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(heebo500.ttf) format('truetype');
+}
